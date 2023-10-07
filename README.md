@@ -14,3 +14,7 @@ Flask is a lightweight Python web framework that provides useful tools and featu
 ## OpenAQ
 
 OpenAQ is an environmental tech nonprofit.
+
+## SQLite3
+
+SQLite is file-based. It is different from other SQL databases because unlike most other SQL databases, SQLite does not have separate server process. 
