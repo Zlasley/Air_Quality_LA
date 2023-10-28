@@ -1,5 +1,5 @@
 # Air_Quality_LA
-111
+
 Using Flask, OpenAQ, sqlite3, python.
 
 ## Objective
