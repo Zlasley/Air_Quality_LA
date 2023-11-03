@@ -4,7 +4,7 @@ Using Flask, OpenAQ, sqlite3, python.
 
 ## Objective
 
-Pulling data from a SQLite3 database using python code and saving the results into another database. 1
+Pulling data from a SQLite3 database using python code and saving the results into another database. 11
 
 ## Flask
 
