@@ -1,4 +1,4 @@
-# Air_Quality_LA1111111
+# Air_Quality_LA
 
 Using Flask, OpenAQ, sqlite3, python.
 
