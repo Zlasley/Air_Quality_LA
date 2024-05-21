@@ -16,4 +16,4 @@ OpenAQ is an environmental tech nonprofit.
 
 ## SQLite3
 
-SQLite is file-based. It is different from other SQL databases because unlike most other SQL databases, SQLite does not have separate server process. .
+SQLite is file-based. It is different from other SQL databases because unlike most other SQL databases, SQLite does not have separate server process.
